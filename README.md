@@ -24,4 +24,4 @@ Please go to LuckPerms' [Crowdin](https://crowdin.com/project/luckperms) transla
 
 ## If you have further questions
 
-Please join LuckPerms' [Discord server](https://discord.gg/luckperms) to ask your question there. This is not a official repository and we can't answer your questions here.
+Please join LuckPerms' [Discord server](https://discord.gg/luckperms) and ask your question there. This is not an official repository and we can't answer your questions here.

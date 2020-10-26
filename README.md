@@ -1,6 +1,6 @@
 # locale (legacy repository)
 
-This is the legacy translation repository for LuckPerms for version `< 5.2`.
+This is the legacy translation repository for LuckPerms version `< 5.2`.
 
 For version `>= 5.2`, translations are now managed on [Crowdin](https://crowdin.com/project/luckperms).
 
